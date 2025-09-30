@@ -5,6 +5,8 @@ description: This is a resource file that contains information regarding problem
 file: /courses/15-025-game-theory-for-strategic-advantage-spring-2015/006442050ab852987bdfb3b4056d1735_MIT15_025S15_Problem1Sol.pdf
 file_size: 177771
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
