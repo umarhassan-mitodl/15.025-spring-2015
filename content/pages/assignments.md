@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the problem sets assigned for the course, solutions,
   information on the team project, and an excerpt on MIT Sloan academic standards.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
