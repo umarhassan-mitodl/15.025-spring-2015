@@ -30,7 +30,7 @@
     "website": "15-025-game-theory-for-strategic-advantage-spring-2015"
   },
   "course_title": "Game Theory for Strategic Advantage",
-  "hide_download": true,
+  "hide_download": false,
   "course_description": "This course develops and applies principles of game theory relevant to managers' strategic decisions. Topics include how to reason about strategies and opponents; strategic commitment, reputation, and \"irrational\" actions; brinkmanship and negotiation; auctions; and the design of markets and contests. Applications to a variety of business decisions that arise in different industries, both within and outside the firm.\n",
   "department_numbers": [
     "15"
@@ -41,7 +41,6 @@
     "content": "1ac36bd7-254c-17b9-ba6e-16b4b08d2766",
     "website": "15-025-game-theory-for-strategic-advantage-spring-2015"
   },
-  "hide_download_original": false,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets with Solutions"
